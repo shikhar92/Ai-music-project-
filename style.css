@@ -1,0 +1,58 @@
+.heading{
+width: 100%;
+font-weight: bold;
+margin: 0px;
+font-size: 20px;
+}
+
+.note{
+color: black;
+border-radius: 10px;
+font-weight: bold;
+
+}
+
+body{
+background-size: cover;
+}
+
+.i1,.i2{
+width: 200px;
+border-radius: 100px;
+}
+
+.speed{
+
+float: left;
+
+}
+
+.volume{
+
+float: right;
+
+}
+
+.sp,.vo{
+
+font-size: 20px;
+font-weight: bold;
+
+}
+
+.b1{
+
+font-size: 25px;
+font-weight: bold;
+width: 130px;
+background-color: green;
+color: white;
+}
+
+canvas{
+
+border: 5px ridge greenyellow;
+margin-top: 125px;
+
+}
+
